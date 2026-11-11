@@ -1,0 +1,68 @@
+body{
+    background-image: url(https://i.pinimg.com/1200x/79/ab/19/79ab19092f01fe41d71aba7aa52aa318.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-login{
+    width: 400px;
+    height: 650px;
+    border: none;
+    border-radius: 25px;
+    margin:300px auto;
+    padding: 50px;
+    background-color: rgba(110, 167, 224, 0.177);
+    box-shadow: 0px 0px 20px 0px rgb(33, 97, 55) inset;
+}
+
+.text-login{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-weight:30px ;
+}
+
+.sub-title{
+    text-align: center;
+    color: rgb(60, 54, 46);
+    font-size: 18px;
+}
+
+.label-input{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.input-form{
+    width: 98%;
+    height: 40px;
+    padding: 5px;
+    padding-left: 13px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 0px 12px 0px rgb(40, 131, 53) inset;
+    background-color: rgba(222, 189, 149, 0.44);
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 3px;
+}
+.input-form ::placeholder{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.checkbox{
+    font-size: 18px;
+}
+.btn-sign{
+    width: 98%;
+    padding: 10px;
+    font-size: 20px;
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(66, 66, 220);
+}
+.label-forget{
+    margin-right: auto;
+    
+}
